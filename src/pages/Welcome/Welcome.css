@@ -1,0 +1,17 @@
+.welcome {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 10px;
+}
+
+.prueba {
+    padding: 10px 20px;
+    background-color: #7ed07c;
+    border-radius: 4px;
+    color: black;
+    text-decoration: none;
+    margin-top: 20px;
+}

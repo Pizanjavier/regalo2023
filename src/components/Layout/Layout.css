@@ -1,0 +1,10 @@
+/* stylelint-disable no-missing-end-of-source-newline */
+/* stylelint-disable order/properties-order */
+/* stylelint-disable indentation */
+.layout {
+    height: 100vh;
+    width: 100vw;
+    font-family: monospace;
+    color: #fff;
+    font-size: 22px;
+}

@@ -1,0 +1,22 @@
+.write-animated-text {
+	position: relative;
+}
+
+.blink-caret {
+  width: 3px;
+  height: 22px;
+  animation: blink-caret 0.5s step-end infinite;
+	position: absolute;
+	bottom: 0;
+	right: -3px;
+}
+
+@keyframes blink-caret {
+  from {
+    background-color: transparent;
+  }
+
+  50% {
+    background-color: #7ed07c;
+  }
+}
